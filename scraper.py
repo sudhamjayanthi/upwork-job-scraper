@@ -7,7 +7,7 @@ import random
 
 jobs = []
 
-# Agent to fake the request as browser to avoid blocking
+# Headers to fake the request as browser to avoid blocking
 headers = open("headers.json")
 headers = dict(json.load(headers))
 
@@ -31,4 +31,4 @@ def scrape_data(search_query="python"):
         jobs.append(eval(job))
     return jobs
    
-   
+print(scrape_data())

@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Postings for {{ query }}</title>
+</head>
+<body>
+        {% for job in jobs %}
+        <div class="job">
+           <h1> {{ job.title }} </h1>
+           <p>{{ job.description }}</p>
+           <button><a href="{{ job.url }}"> View on upwork</a></button>
+        </div>
+           <hr />
+        {% endfor %}
+        <link rel="stylesheet" href="{{ url_for('static', filename='jobs.css') }}">
+</body>
+</html>

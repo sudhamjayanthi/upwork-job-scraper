@@ -1,12 +1,33 @@
-* {
-  margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+form{ 
+    width: 100%; 
+    display: flex;
+    align-items: center;
+    height: 100%;
 }
-a {
-    text-decoration: none;
-    
+body {
+    background-color: black;
+    padding: 10vw;
 }
-h1{
-    color: black;   
+.center{
+    display: flex;
+    width: 100%;
+    justify-content: center;   
+}
+input{
+    width: 100%;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    padding: 10px;
+    outline: none;
 }
 
+img{
+    height: 30px;
+}
+
+button{
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color:rgb(240, 204, 0) ;
+    padding: 10px;
+}
