@@ -4,15 +4,17 @@
 A web scraping project with python using requests &amp; bs4 modules. You can search for any term & get the first 10 job listings in Upwork! Working on adding more features!
 
 ### Installation & Usage
+
 > _[Creating a virtual environment](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiS4sDAlIzsAhU-yzgGHemmC0EQFjABegQIBBAB&url=https%3A%2F%2Fuoa-eresearch.github.io%2Feresearch-cookbook%2Frecipe%2F2014%2F11%2F26%2Fpython-virtual-env%2F&usg=AOvVaw1NspSZHTjlBJA7efitqlGf) is recommended before starting to avoid conflicts with module versions._ 
 
-1. Clone this repostory using the following command. 
-    ```
+#### Installation
+1. Clone the git repostory using the following command. 
+    ```cmd
     git clone https://github.com/SudhamJayanthi/upwork-job-scraper.git 
     ```
 
 2. Open the terminal and navigate to the project directory
-    ```bash
+    ```cmd
     cd path/to/your/project 
     ```
 
@@ -22,10 +24,11 @@ A web scraping project with python using requests &amp; bs4 modules. You can sea
     ```
    
 
-4. Run the application
-    ```cmd
-    python main.py
-    ```
+#### Usage
+Run the application
+```cmd
+ python main.py
+```
 
 
 ### Contributing
