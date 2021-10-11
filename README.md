@@ -1,5 +1,3 @@
-[HACKTOBERFEST ACCEPTED] This repository is a project that you can contribute to for Hacktober Fest 2021.
-
 # Upwork Job Scraper
 A web scraping project with python using requests &amp; bs4 modules. You can search for any term & get the first 10 job listings in Upwork! Working on adding more features!
 
