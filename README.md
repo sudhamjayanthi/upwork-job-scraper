@@ -43,5 +43,5 @@ No problem if you ran into errors or have been able to do only half. Be proud at
 I'll be happy to assist you and teach you to help you complete it anytime :)
 
 ### Contact me
-- [DM me on Instagram](https://www.instagram.com/sudhamjayanthi)
-- [Email me (workwithsudham@gmail.com) ](mailto:workwithsudham@gmail.com)
+- [DM me on Twitter](https://www.twitter.com/sudhamjayanthi)
+- [Email me (hey@sudham.tk) ](mailto:hey@sudham.tk)
